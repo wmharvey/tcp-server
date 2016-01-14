@@ -1,0 +1,22 @@
+{
+  "name": "tcpserver",
+  "version": "1.0.0",
+  "description": "A simple tcp server",
+  "main": "server.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "author": "Whitney",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-jshint": "^2.0.0",
+    "gulp-mocha": "^2.2.0",
+    "jshint": "^2.8.0",
+    "jshint-stylish": "^2.1.0",
+    "mocha": "^2.3.4"
+  },
+  "dependencies": {
+    "node-uuid": "^1.4.7"
+  }
+}
